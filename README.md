@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá, meu nome é Matheus Alves
 
-<!--
-**MatheusHenriqAlves/MatheusHenriqAlves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estou me formando para ser um desenvolvedor Full Stack !  
+🚀 Estudo e prática constante em busca da minha primeira oportunidade como estagiário.
+---
+- Atualmente estudando **C#, HMTL, CSS, JavaScript, SQL Server e .NET**
+- Interesse em **lógica de programação, boas práticas, POO e arquitetura de sofware** 
+- Pratico diariamente com **projetos próprios** e **exercícios direcionados**
+---
+## 📘 Em constante revisão
 
-Here are some ideas to get you started:
+- ✔️ Programação Orientada a Objetos
+- ✔️ Estruturas de dados
+- ✔️ Banco de dados relacional
+- ✔️ Metodologias ágeis e versionamento com Git
+- ✔️ Clean Code
+---
+## 🧪 Projetos & Estudos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 **Exercícios em C#**  
+📌 **Projetos de console para lógica e POO**  
+📌 **Pequenos sistemas para treinar CRUD e SQL*
