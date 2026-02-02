@@ -1,7 +1,7 @@
 <h1 align="center">Matheus Alves</h1>
 
 💻 Estou me formando para ser um desenvolvedor Full Stack !  
-Estudo e prática constante em busca de uma vaga como estagiário.
+🌐 Estudo e prática constante em busca de uma vaga como estagiário.
 ---
 - Atualmente estudando **C#, HMTL, CSS, JavaScript, SQL Server e .NET**
 - Interesse em **lógica de programação, boas práticas, POO e arquitetura de sofware** 
